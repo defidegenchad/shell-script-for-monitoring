@@ -50,27 +50,7 @@ After installation, you can run the script by calling command 'monitor' from any
     
 Now run monitor command from anywhere using any user account simply as:
 
-    $ monitor
-    
-    
-As soon as you run the command you get various System related information which are:
-
-Internet Connectivity
-OS Type
-OS Name
-OS Version
-Architecture
-Kernel Release
-Hostname
-Internal IP
-External IP
-Name Servers
-Logged In users
-Ram Usages
-Swap Usages
-Disk Usages
-Load Average
-System Uptime     
+    $ monitor    
 
 ## Code of Conduct
 
